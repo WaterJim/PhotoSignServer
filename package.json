@@ -1,0 +1,17 @@
+{
+  "name": "signapp",
+  "version": "1.0.0",
+  "description": "this is app server of sign",
+  "main": "bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WaterJim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "moment": "^2.13.0",
+    "mongoose": "^4.4.5"
+  }
+}
